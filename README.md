@@ -1,11 +1,9 @@
-### Hi there 👋
+### Welcome on Brahim DIOUANE's GitHub Page 👋
 
 
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="https://kinsta.com/fr/wp-content/uploads/sites/4/2021/12/front-end-developer.png">
 </picture>
 
 
